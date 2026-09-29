@@ -120,4 +120,4 @@
     <p style="margin-top: 0.5rem; opacity: 0.8;">
         <i>用更优质的数据，接管你的候选词。</i>
     </p>
-</div># Rime
+</div>
