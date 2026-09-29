@@ -1,3 +1,7 @@
 /build/
 *.userdb/
 /wanxiang-lts-zh-hans.gram
+/user.yaml
+/installation.yaml
+/.zcode/
+/.zcodeignore
